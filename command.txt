@@ -1,0 +1,6 @@
+1. git show HEAD
+2. git checkout HEAD filename //making unchanges in working directory
+3. git add .
+4. git reset HEAD filename // making file unstaged
+5. git reset SHA(first 7 characters of 40 characters of SHA)
+
