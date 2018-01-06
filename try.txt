@@ -1,1 +1,2 @@
-this is a sample text file
+changes made in master branch.
+Added new line and deleted previous one. 
